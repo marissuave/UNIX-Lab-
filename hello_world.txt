@@ -1,1 +1,7 @@
-Hello WRLD
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   hello_world.txt
+
+no changes added to commit
